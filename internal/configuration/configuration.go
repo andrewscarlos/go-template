@@ -14,7 +14,7 @@ import (
 type ApplicationEnvEnum string
 
 const (
-	Development ApplicationEnvEnum = "DEVELOPMENt"
+	Development ApplicationEnvEnum = "DEVELOPMENT"
 	Test        ApplicationEnvEnum = "TEST"
 	Production  ApplicationEnvEnum = "PRODUCTION"
 	Staging     ApplicationEnvEnum = "STAGING"
